@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad5f65e5-1417-4a23-9e26-ddf54e873b41" name="Changes" comment="ADDING CLASSES GENERATED FROM STARUML" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yayaczk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yayaczk/MountainShooter.git&quot;,
+    &quot;accountId&quot;: &quot;fd24e05e-fb13-407a-94de-4395c40265e7&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000244468234747" />
+      <entry key="MS500" value="1.1298495244692044" />
+      <entry key="S2" value="2.0336042317245804" />
+      <entry key="S5" value="3.4851408972191007" />
+      <entry key="S10" value="5.235531753029938" />
+      <entry key="S30" value="7.815581324987547" />
+      <entry key="S60" value="8.80566532846101" />
+      <entry key="M2" value="9.37456160361223" />
+      <entry key="M5" value="9.742652923688647" />
+      <entry key="M10" value="9.87010141152698" />
+      <entry key="M15" value="9.914067110070674" />
+      <entry key="M30" value="10.184374825632757" />
+      <entry key="H1" value="13.585509181490675" />
+      <entry key="H2" value="24.4208384204581" />
+      <entry key="H4" value="38.908400974353405" />
+      <entry key="D1" value="61.64094564624587" />
+      <entry key="W1" value="67.04561676583063" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="2.8772544466942346E-135" />
+      <entry key="S60" value="5.364019381803587E-68" />
+      <entry key="M2" value="2.323353411503616E-34" />
+      <entry key="M5" value="4.3958889354310976E-14" />
+      <entry key="M10" value="3.9572183292199756E-7" />
+      <entry key="M15" value="9.272871814036691E-5" />
+      <entry key="M30" value="0.02302483269656624" />
+      <entry key="H1" value="0.3697109476173554" />
+      <entry key="H2" value="1.48754093305333" />
+      <entry key="H4" value="2.9866243262480565" />
+      <entry key="D1" value="5.341196743907343" />
+      <entry key="W1" value="5.901123846160695" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.946080615073121" />
+      <entry key="MS500" value="1.1172245815606563" />
+      <entry key="S2" value="2.0277841079597376" />
+      <entry key="S5" value="3.481029716383287" />
+      <entry key="S10" value="5.232277643041491" />
+      <entry key="S30" value="7.81386838808595" />
+      <entry key="S60" value="8.804684740648801" />
+      <entry key="M2" value="9.374035327902014" />
+      <entry key="M5" value="9.742433056591903" />
+      <entry key="M10" value="9.869990243956355" />
+      <entry key="M15" value="9.914084046723769" />
+      <entry key="M30" value="10.207223235573673" />
+      <entry key="H1" value="13.954067444557214" />
+      <entry key="H2" value="25.906075597951343" />
+      <entry key="H4" value="41.892712015060134" />
+      <entry key="D1" value="66.98145237001934" />
+      <entry key="W1" value="72.94663168761426" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3Ls6dGJ9GhWebXALMecraMS1fTi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "Feature-a",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Faculdade\MountainShooter\code" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ebb3072d7bdf-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.11879.98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad5f65e5-1417-4a23-9e26-ddf54e873b41" name="Changes" comment="" />
+      <created>1794230513757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794230513757</updated>
+      <workItem from="1794230514736" duration="4264000" />
+      <workItem from="1794408021131" duration="639000" />
+      <workItem from="1794491200997" duration="4764000" />
+    </task>
+    <task id="LOCAL-00001" summary="Inicial Commit">
+      <option name="closed" value="true" />
+      <created>1794235311011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794235311012</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ADDING CLASSES GENERATED FROM STARUML">
+      <option name="closed" value="true" />
+      <created>1794504755606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794504755606</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ADDING CLASSES GENERATED FROM STARUML">
+      <option name="closed" value="true" />
+      <created>1794505115522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794505115522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicial Commit" />
+    <MESSAGE value="ADDING CLASSES GENERATED FROM STARUML" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDING CLASSES GENERATED FROM STARUML" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MountainShooter$main.coverage" NAME="main Coverage Results" MODIFIED="1794234205265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
