@@ -11,5 +11,5 @@ if TYPE_CHECKING:
 
 class EntityFactory:
 
-    def get_entity(self, entity_type: str) -> -> Entity:
+    def get_entity(self, entity_type: str) -> Entity:
         pass

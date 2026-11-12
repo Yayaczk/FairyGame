@@ -1,10 +1,14 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class menu:
+class Menu:
 
-    def __init__(self):
-        self.window: Surface = None
+    def __init__(self, window):
+        self.window: window
 
-    def run(self) -> -> None:
+    def run(self) ->  None:
         pass
+
+
+def enu():
+    return None
