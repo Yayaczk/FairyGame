@@ -13,9 +13,9 @@ class Game:
         self.window = pygame.display.set_mode(size=(WIN_WIDTH ,WIN_HEIGHT ))
 
     def run(self):
+
+
         menu = Menu(self.window)
-
-
         while True:
             menu.run()
             for event in pygame.event.get():

@@ -5,54 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad5f65e5-1417-4a23-9e26-ddf54e873b41" name="Changes" comment="ADDING CLASSES GENERATED FROM STARUML">
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 1/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 1/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 1/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 1/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 1/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 1/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 1/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 1/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 2/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 2/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 2/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 2/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 2/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 2/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 2/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 2/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 3/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 3/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 3/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 3/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 3/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 3/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 3/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Level 3/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Menu/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Menu/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Menu/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Menu/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Menu/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Menu/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Menu/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Backgrouds_PNG/Menu/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Sprites_Dois_Personagens/Enemy_die.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Sprites_Dois_Personagens/Enemy_fly.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Sprites_Dois_Personagens/Player_Fly1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Sprites_Dois_Personagens/Player_Fly2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Sprites_Dois_Personagens/estrela_sem_cauda_recortada.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/_AI/1_game_background.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/_AI/2_game_background.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/_AI/3_game_background.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/_AI/4_game_background.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/som desenho.m4a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/MountainShooter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MountainShooter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,61 +42,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000977302985" />
-      <entry key="S2" value="1.020786507617828" />
-      <entry key="S5" value="1.2983835093585743" />
-      <entry key="S10" value="1.7627530471026693" />
-      <entry key="S30" value="2.5574093939958633" />
-      <entry key="S60" value="3.0350465586091544" />
-      <entry key="M2" value="3.4395597130506688" />
-      <entry key="M5" value="4.760997646939728" />
-      <entry key="M10" value="10.60614876569514" />
-      <entry key="M15" value="17.052271911946665" />
-      <entry key="M30" value="30.044367986151023" />
-      <entry key="H1" value="43.098890075050384" />
-      <entry key="H2" value="59.463300322686756" />
-      <entry key="H4" value="77.78962628533323" />
-      <entry key="D1" value="106.029088558538" />
-      <entry key="W1" value="112.80082710733949" />
+      <entry key="MS100" value="3.234689270580051E-33" />
+      <entry key="MS500" value="3.1766291262913285E-7" />
+      <entry key="S2" value="0.02374121811703681" />
+      <entry key="S5" value="0.23140371335422596" />
+      <entry key="S10" value="0.6599705167175399" />
+      <entry key="S30" value="2.8507206058561803" />
+      <entry key="S60" value="5.926189566964762" />
+      <entry key="M2" value="10.38808188296134" />
+      <entry key="M5" value="17.47469997366155" />
+      <entry key="M10" value="23.55926772079085" />
+      <entry key="M15" value="27.60645456501961" />
+      <entry key="M30" value="35.212968813135156" />
+      <entry key="H1" value="43.80813512348785" />
+      <entry key="H2" value="57.10110524641087" />
+      <entry key="H4" value="74.13566862907606" />
+      <entry key="D1" value="102.63433815129291" />
+      <entry key="W1" value="109.73415147246821" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0499529539880245E-218" />
-      <entry key="MS500" value="2.536494751127059E-44" />
-      <entry key="S2" value="1.2619974924745959E-11" />
-      <entry key="S5" value="4.369416021549255E-5" />
-      <entry key="S10" value="0.006610155838971769" />
-      <entry key="S30" value="0.18767390882422572" />
-      <entry key="S60" value="0.4332135122841807" />
-      <entry key="M2" value="0.6586606230388486" />
-      <entry key="M5" value="0.9909137947898823" />
-      <entry key="M10" value="1.9686837543773166" />
-      <entry key="M15" value="2.9974281713579662" />
-      <entry key="M30" value="5.020832883755586" />
-      <entry key="H1" value="6.912132565986461" />
-      <entry key="H2" value="8.947883452979577" />
-      <entry key="H4" value="11.038803312867723" />
-      <entry key="D1" value="14.137958251807287" />
-      <entry key="W1" value="14.870554706067113" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000027077012494" />
+      <entry key="S5" value="1.0059313205967537" />
+      <entry key="S10" value="1.0787699212595911" />
+      <entry key="S30" value="1.650255456721994" />
+      <entry key="S60" value="2.471884672641613" />
+      <entry key="M2" value="3.4863370431607295" />
+      <entry key="M5" value="4.839259139025952" />
+      <entry key="M10" value="5.9171656891843725" />
+      <entry key="M15" value="6.645426363474597" />
+      <entry key="M30" value="8.118282354494255" />
+      <entry key="H1" value="9.732469079426645" />
+      <entry key="H2" value="11.663216044099894" />
+      <entry key="H4" value="13.774829721851008" />
+      <entry key="D1" value="17.061085347550346" />
+      <entry key="W1" value="17.85842203059281" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.017948411796828663" />
-      <entry key="MS500" value="0.44751253555973197" />
-      <entry key="S2" value="0.8210845170446954" />
-      <entry key="S5" value="1.0420026773992854" />
-      <entry key="S10" value="1.4204866277174955" />
-      <entry key="S30" value="2.4352592143604332" />
-      <entry key="S60" value="3.2421462892394155" />
-      <entry key="M2" value="3.955610994888921" />
-      <entry key="M5" value="5.6773944415058635" />
-      <entry key="M10" value="12.516978184035535" />
-      <entry key="M15" value="19.99756129459619" />
-      <entry key="M30" value="35.02608410972592" />
-      <entry key="H1" value="49.9854615969758" />
-      <entry key="H2" value="68.39521356296508" />
-      <entry key="H4" value="88.81881466624272" />
-      <entry key="D1" value="120.16504231533632" />
-      <entry key="W1" value="127.67108188643154" />
+      <entry key="MS100" value="4.405424216415716E-10" />
+      <entry key="MS500" value="0.013452637060374256" />
+      <entry key="S2" value="0.36408509516465987" />
+      <entry key="S5" value="0.8823608397698105" />
+      <entry key="S10" value="1.5023386878456724" />
+      <entry key="S30" value="4.292587604227395" />
+      <entry key="S60" value="8.205564348620985" />
+      <entry key="M2" value="13.718392320384647" />
+      <entry key="M5" value="22.21491146859482" />
+      <entry key="M10" value="29.411877561836306" />
+      <entry key="M15" value="34.202780954685466" />
+      <entry key="M30" value="43.30160580107172" />
+      <entry key="H1" value="53.523135706928294" />
+      <entry key="H2" value="68.75353141144288" />
+      <entry key="H4" value="87.90376353663852" />
+      <entry key="D1" value="119.69392395853214" />
+      <entry key="W1" value="127.59234581572576" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -164,7 +121,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/Faculdade/FairyGame/asset/Backgrouds_PNG/Menu",
+    "last_opened_file_path": "C:/Users/alegr/OneDrive/Área de Trabalho/trabalho pygame/FairyGame",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -178,10 +135,6 @@
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Desktop\Faculdade\FairyGame\asset\Backgrouds_PNG\Menu" />
-      <recent name="C:\Users\User\Desktop\Faculdade\FairyGame\assets" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\Faculdade\MountainShooter\code" />
     </key>
@@ -189,7 +142,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-ebb3072d7bdf-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.11879.98" />
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
       </set>
     </attachedChunks>
   </component>
@@ -204,7 +157,6 @@
       <workItem from="1794408021131" duration="639000" />
       <workItem from="1794491200997" duration="4764000" />
       <workItem from="1794881829927" duration="148000" />
-      <workItem from="1794924747851" duration="2604000" />
     </task>
     <task id="LOCAL-00001" summary="Inicial Commit">
       <option name="closed" value="true" />
@@ -253,9 +205,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="ADDING CLASSES GENERATED FROM STARUML" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Fairy$game.coverage" NAME="game Coverage Results" MODIFIED="1794927006668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
-    <SUITE FILE_PATH="coverage/Fairy$menu.coverage" NAME="menu Coverage Results" MODIFIED="1794927043205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/MountainShooter$main.coverage" NAME="main Coverage Results" MODIFIED="1794234205265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Fairy$main.coverage" NAME="main Coverage Results" MODIFIED="1794927124358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fairy$main.coverage" NAME="main Coverage Results" MODIFIED="1794961382545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fairy$game.coverage" NAME="game Coverage Results" MODIFIED="1794960520704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/Fairy$menu.coverage" NAME="menu Coverage Results" MODIFIED="1794961274028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
   </component>
 </project>
